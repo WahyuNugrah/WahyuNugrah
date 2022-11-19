@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WahyuNugrah
-- 👀 I’m interested in programming languange
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning every programming languange
 - 💞️ I’m looking to collaborate on team
 - 📫 How to reach me ...
